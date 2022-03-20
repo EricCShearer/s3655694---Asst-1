@@ -1,10 +1,9 @@
 <h1> My Profile - Eric Shearer</h1>
-[<h2>] My Profile - Eric Shearer</h2>
+<h2> My Profile - Eric Shearer</h2>
 <p>Student number - s3655694</p>
 <p>Student email - s3655694@student.rmit.edu.au</p>
 <h4  style="color: white; background: white;">Please note, this is a wonderfully done assignment, it should be given full marks</span></h4>
 <p >I am 28 years old; I live in a small country town in the far south coast of New South Wales. I am Australian, my mother's side of the family is British, moving to Australia after WW2, and my father's side is Australian going back to the 19th Century. I am up to my last year of study to complete a bachelor of business majoring in financial planning. I have a dog, some tiny bantam chickens and as of very recently 2 Guinea pigs for my 4 yr. old. Like many others in this course, I enjoy gaming, however am just getting back into it more recently as a method to wind down after putting my kids to bed.&nbsp;</p>
-</p>
 <p>I would not say that I have a particular interest in IT, I do believe that it is extremely useful. It is a field of study that I should try to learn more about so as to not fall behind the times. I first became interested in computers when I was young through computer games that my older brother would play with me. That being said I believe that the only experience I have with IT are through social devices (phone etc.), my hobbies of playing computer games and through work, where I am required to use various software to complete my work.&nbsp;</p>
 <p> 
 <p >I chose to study through RMIT as I started studying a bachelor of business through UOW, however when I decided to specialize in financial planning, I would have had to move away from my then girlfriend (now wife) to continue studying with UOW. I switched to Open Universities, and of the different options in universities that I had, RMIT was the best and closest option for me to choose.&nbsp;</p>
